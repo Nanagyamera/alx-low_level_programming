@@ -1,1 +1,1 @@
-Write a C program that prints exactly with proper grammar
+Write a C program that prints the size
