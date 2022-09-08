@@ -1,1 +1,1 @@
-Write a script that compiles a C file
+Write a C program that prints exactly
