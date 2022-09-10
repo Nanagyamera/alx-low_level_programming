@@ -1,1 +1,1 @@
-This program will assign a random number
+Write a program that prints the alphabet
