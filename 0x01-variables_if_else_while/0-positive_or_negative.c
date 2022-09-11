@@ -34,7 +34,7 @@ int main(void)
 
 	  /* your code goes there */
 
-	if (n > 0)
+        	if (n > 0)
 
 	{
 
