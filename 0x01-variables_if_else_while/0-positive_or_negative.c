@@ -5,7 +5,6 @@
 #include <stdio.h>
 
 
-
 /**
  *
  * * main - print if the number is postive, zero, or negative
@@ -21,7 +20,6 @@
  */
 
 int main(void)
-
 {
 
 	int n;
@@ -34,7 +32,7 @@ int main(void)
 
 	  /* your code goes there */
 
-        	if (n > 0)
+        if (n > 0)
 
 	{
 
