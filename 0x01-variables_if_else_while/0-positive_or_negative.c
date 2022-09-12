@@ -14,12 +14,13 @@
  *
  * * this program prints "Programming is positive, zero, or negative
  *
- * Return: 0
+ * * Return: Always(Success) 
  *
  */
 
 int main(void)
 {
+
 	int n;
 
 
@@ -33,7 +34,7 @@ if (n > 0)
 
 	{
 
-			printf("%d is positive\n", n);
+			printf("%i is positive\n", n);
 
 	}
 
