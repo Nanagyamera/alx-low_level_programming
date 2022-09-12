@@ -14,7 +14,7 @@
  *
  * * this program prints "Programming is positive, zero, or negative
  *
- * * Return: using the main function  
+ * * Return: 0   
  *
  */
 
