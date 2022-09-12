@@ -7,7 +7,7 @@
  *
  *      * Return: 0
  *
- *       */
+ */
 
 int main(void)
 
@@ -19,7 +19,7 @@ int main(void)
 
 	{
 
-			putchar(c);
+		putchar(c);
 
 	}
 
@@ -27,7 +27,7 @@ int main(void)
 
 	{
 
-			putchar(c);
+		putchar(c);
 
 	}
 
