@@ -28,8 +28,12 @@ int main(void)
 		{
 			printf("%d", i);
 		}
-	}
-	printf("\n");
+		else
+		{
+			printf("%d", i);
+		}
 
-	return (0);
+		printf("\n");
+
+		return (0);
 }
