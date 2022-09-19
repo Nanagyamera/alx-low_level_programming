@@ -5,7 +5,7 @@
  * puts2 - prints the first character of every other string
  * @str: string
  *Return: nothing
- /
+ */
 
 void puts2(char *str)
 {
