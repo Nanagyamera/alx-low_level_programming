@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * print_rev - prints a string in reserve 
+ * print_rev - prints a string in reserve
  * @s: string to reserve
  * Return: nothing
  */
