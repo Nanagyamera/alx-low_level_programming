@@ -4,6 +4,8 @@ int check_prime(int, int);
 
 /**
  * is_prime_number - prime identifier
+ * @n: is a number
+ * Return: integer
  */
 
 int is_prime_number(int n)
